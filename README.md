@@ -1,2 +1,3 @@
-# devopsworkshop
-Workshopn on devops
+# phpmysql-app
+An Ecoomm app built on PHP &amp; MySQL  
+
